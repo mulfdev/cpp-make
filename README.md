@@ -1,5 +1,3 @@
-## README
-
 ### Description
 Automates creation of a new C++ project configured for a specified C++ standard on macOS.
 
